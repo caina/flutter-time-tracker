@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/hexad/Workspace/flutter/time_sheet/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/hexad/Workspace/flutter/time_sheet/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/hexad/Workspace/flutter/time_sheet/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/hexad/Workspace/flutter/time_sheet/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/hexad/Workspace/flutter/time_sheet/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/hexad/Workspace/flutter/time_sheet/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/hexad/Workspace/flutter/time_sheet/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/hexad/Workspace/flutter/time_sheet/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/hexad/Workspace/flutter/time_sheet/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/hexad/Workspace/flutter/time_sheet/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/hexad/Workspace/flutter/time_sheet/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/hexad/Workspace/flutter/time_sheet/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/hexad/Workspace/flutter/time_sheet/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/hexad/Workspace/flutter/time_sheet/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/hexad/Workspace/flutter/time_sheet/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/hexad/Workspace/flutter/time_sheet/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/hexad/Workspace/flutter/time_sheet/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/hexad/Workspace/flutter/time_sheet/ios/Flutter/Flutter.framework/Headers/Flutter.h
